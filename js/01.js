@@ -16,7 +16,7 @@ const producto={
 
 console.log(producto)
 
-producto.nombre="Alto programmer"
+producto.nombre="Mastering Javascript step by step"
 
 //Borrar un item del objeto
 delete producto.disponible
